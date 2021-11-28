@@ -11,10 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+* Ph.D.The Hong Kong University of Science and Technology, HKSAR2017-present
+* M.S.Skolkovo Institute of Science and Technology, Moscow, Russia, 2013-2015 
+* Exchange Student, Massachusetts Institute of Technology, Cambridge, USA, 2014
+* B.S.National University of Computer and Emerging Sciences, Islamabad, Pakistan2007-2011
+  cum laude,
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +60,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
