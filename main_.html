@@ -1,13 +1,17 @@
-<html lang="en">
-<head>
-	
-  <meta name="Author" content="Ehsan ul Haq">
-  <meta name="Keywords"
- content="Social Computing, Social Network Analysis, Computational Politics">
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ehsan Ul HAQ</title>
-</head>
-<body>
-</body>
-</html>
+.layout {
+  width: 1366px;
+  height: 768px;
+
+  display: grid;
+  grid:
+    "sidebar body" 1fr
+    / auto 1fr;
+  gap: 8px;
+}
+.sidebar { grid-area: sidebar; }
+.body { grid-area: body; }
+
+<section class="layout">
+  <div class="sidebar">1</div>
+  <div class="body">2</div>
+</section>
